@@ -6,7 +6,7 @@ new therapeutic targets and biomarkers.
 
 
 <p align="center">
-  <img height="400" src="CSI_Toolkit.png">
+  <img height="400" src="https://github.com/carmonalab/.github/blob/master/profile/CSI_Toolkit.png">
 </p>
 
 We are part of the [Department of Oncology](https://www.unil.ch/dof/carmona), Ludwig Institute for Cancer Research of the University of Lausanne, and the [Swiss Institute of Bioinformatics](https://www.sib.swiss/carmona-santiago)
