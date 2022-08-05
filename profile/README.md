@@ -1,13 +1,16 @@
-## Cancer Systems Immunology lab
+## Cancer Systems Immunology laboratory
 
 Working at the crossroads of data science, single-cell multi-omics, and cancer immunology,
-our lab develops and applies computational methods to understand how our immune system responds to cancer and to identify 
+we develop and apply computational methods to understand how our immune system responds to cancer and to identify 
 new therapeutic targets and biomarkers. 
 
-Our group is part of the [Department of Oncology](https://www.unil.ch/dof/carmona) and the Ludwig Institute for Cancer Research of the University of Lausanne, 
-and of the [Swiss Institute of Bioinformatics](https://www.sib.swiss/carmona-santiago)
 
-We are located at the new [Agora Cancer Research Center](https://agora-cancer.ch/) in beautiful Lausanne, Switzerland
+<p align="center">
+  <img height="400" src="CSI_Toolkit.png">
+</p>
 
+We are part of the [Department of Oncology](https://www.unil.ch/dof/carmona), Ludwig Institute for Cancer Research of the University of Lausanne, and the [Swiss Institute of Bioinformatics](https://www.sib.swiss/carmona-santiago)
+
+Our lab is located at the new [Agora Cancer Research Center](https://agora-cancer.ch/) in beautiful Lausanne, Switzerland
 
 
