@@ -4,7 +4,7 @@ Working at the crossroads of data science, single-cell multi-omics, and cancer i
 we develop and apply computational methods to understand how our immune system responds to cancer and to identify 
 new therapeutic targets and biomarkers. 
 
-We are part of the [Department of Oncology](https://www.unil.ch/dof/carmona), Ludwig Institute for Cancer Research of the University of Lausanne, and the [Swiss Institute of Bioinformatics](https://www.sib.swiss/carmona-santiago). Our lab is located at the new [Agora Cancer Research Center](https://agora-cancer.ch/) in beautiful Lausanne, Switzerland.
+We are part of the Ludwig Institute for Cancer Research, [Department of Oncology](https://www.unil.ch/dof/carmona) of the University of Lausanne, and the [Swiss Institute of Bioinformatics](https://www.sib.swiss/carmona-santiago). Our lab is located at the new [Agora Cancer Research Center](https://agora-cancer.ch/) in beautiful Lausanne, Switzerland.
 
 
 <p align="center">
