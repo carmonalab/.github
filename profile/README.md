@@ -21,3 +21,4 @@ We are part of the Ludwig Institute for Cancer Research, [Department of Oncology
 
 * [STACAS](https://github.com/carmonalab/STACAS): accurate integration (batch-effect correction) of single-cell transcriptomics data. Especially designed to integrate datasets with strong cell type unbalance. It can take advantage of prior knowledge to guide semi-supervised integration.
 
+* [SPICA](https://spica.unil.ch/): web portal to explore our immune cell reference maps and to project into them your own data
