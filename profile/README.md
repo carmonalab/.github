@@ -21,4 +21,6 @@ We are part of the Ludwig Institute for Cancer Research, [Department of Oncology
 
 * [STACAS](https://github.com/carmonalab/STACAS): accurate integration (batch-effect correction) of single-cell transcriptomics data. Its semi-supervised mode takes advantage of prior cell type knowledge to guide integration. To assess quality of integration, [scIntegrationMetrics](https://github.com/carmonalab/scIntegrationMetrics) provides multiple useful metrics.
 
+* [GeneNMF](https://github.com/carmonalab/GeneNMF): unsupervised discovery of gene programs in omics data by non-negative matrix factorization (NMF). It can be especially useful to extract recurrent gene programs in cancer cells, which are otherwise difficult to integrate and analyse jointly.
+
 * [SPICA](https://spica.unil.ch/): web portal to explore our immune cell reference maps and to project into them your own data
