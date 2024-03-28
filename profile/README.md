@@ -8,7 +8,7 @@ We are part of the Ludwig Institute for Cancer Research, [Department of Oncology
 
 
 <p align="center">
-  <img height="300" src="https://github.com/carmonalab/.github/blob/master/profile/CSI_Toolkit.png">
+  <img height="200" src="https://github.com/carmonalab/.github/blob/master/profile/CSI_toolkit_simple.png">
 </p>
 
 **Overview of our lab's tools:**
@@ -22,5 +22,7 @@ We are part of the Ludwig Institute for Cancer Research, [Department of Oncology
 * [STACAS](https://github.com/carmonalab/STACAS): accurate integration (batch-effect correction) of single-cell transcriptomics data. Its semi-supervised mode takes advantage of prior cell type knowledge to guide integration. To assess quality of integration, [scIntegrationMetrics](https://github.com/carmonalab/scIntegrationMetrics) provides multiple useful metrics.
 
 * [GeneNMF](https://github.com/carmonalab/GeneNMF): unsupervised discovery of gene programs in omics data by non-negative matrix factorization (NMF). It can be especially useful to extract recurrent gene programs in cancer cells, which are otherwise difficult to integrate and analyse jointly.
+
+* [SignatuR](https://github.com/carmonalab/SignatuR): a database of useful gene signatures for single-cell analysis. It also provides utilities to store and interact with gene signatures.
 
 * [SPICA](https://spica.unil.ch/): web portal to explore our immune cell reference maps and to project into them your own data
