@@ -16,7 +16,7 @@ We are part of the Ludwig Institute for Cancer Research, [Department of Oncology
 
 * [SignatuR](https://github.com/carmonalab/SignatuR): a database of useful gene signatures for single-cell analysis. It also provides utilities to store and interact with gene signatures.
 
-* [UCell](https://bioconductor.org/packages/release/bioc/html/UCell.html): robust and scalable single-cell gene signature scoring, uses *positive* and *negative* genes and mitigates data sparsity by nearest neighbors smoothing. For easy retrieval and storing of signatures we recommend [SignatuR](https://github.com/carmonalab/SignatuR).
+* [UCell](https://github.com/carmonalab/UCell): robust and scalable single-cell gene signature scoring, uses *positive* and *negative* genes and mitigates data sparsity by nearest neighbors smoothing. For easy retrieval and storing of signatures we recommend [SignatuR](https://github.com/carmonalab/SignatuR).
 
 * [scGate](https://github.com/carmonalab/scGate): the tool for marker-based purification or classification of cell populations. Use pre-defined *gating models* or create your own to purify a cell type or to classify into multiple cell types.
 
