@@ -25,3 +25,5 @@ We are part of the [Department of Pathology and Immunology](https://www.unige.ch
 * [ProjecTILs](https://github.com/carmonalab/ProjecTILs): reference-based analysis framework, *1)* select or build your *reference map*, *2)* project new data into the map without altering it. Then *3)* obtain high-resolution subtype classifications, *4)* explore how cell states in projected data deviate from the reference, and optionally, *5)* upgrade your reference to include novel cell states.
 
 * [SPICA](https://spica.unil.ch/): web portal to explore our immune cell reference maps and to project into them your own data
+
+For stable releases of our tools, including automated build/install checks on multiple architectures, please visit our [R-universe repository](https://carmonalab.r-universe.dev/builds).
